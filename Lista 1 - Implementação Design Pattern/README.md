@@ -1,10 +1,8 @@
 # Lista 1 - Implementação Design Pattern
 
-## Aluno: Tiago Eloy Possidonio Pereira / RA: 2417677
+### Aluno: Tiago Eloy Possidonio Pereira / RA: 2417677
 
 ## Padrões de projeto Comportamentais: Command e Strategy
-
-## Padrão de projeto estrutural: Factory Methods
 
 ### Command:
 
@@ -20,7 +18,7 @@
 
 #### A estruturação do código em padrões como Command e Strategy torna mais simples realizar manutenções no sistema. As mudanças podem ser feitas de forma localizada, sem afetar outras partes do código, desde que a interface pública permaneça a mesma.
 
-### Factory Methods:
+## Padrão de projeto estrutural: Factory Methods
 
 #### O factory methods é uma ferramenta poderosa para criar objetos de forma flexível, encapsulada e controlada. Eles promovem boas práticas de design de software, como encapsulamento, abstração e baixo acoplamento, contribuindo para a criação de código mais modular, flexível e fácil de manter.
 
