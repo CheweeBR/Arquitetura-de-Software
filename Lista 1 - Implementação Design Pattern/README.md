@@ -24,6 +24,6 @@
 
 ## Instalação e utilização do projeto:
 
-### Para executar o projeto é necessário instalar o NodeJS e as depencias contidas em "package.json".
+### Para executar o projeto é necessário instalar o NodeJS e as dependencias contidas em "package.json".
 
 ### Para rodar o aplicativo, quando estiver no diretório presente o projeto, executar o comando "node index.js".
